@@ -14,7 +14,7 @@
 </picture>
 
 <h1>Hello, welcome to my GitHub profile.</h1>
-<p>My name is Yogawan, but you can call me Tama, an early semester informatics student from Yogyakarta Technology University, he has studied the web since he was in high school.</p>
+<p>My name is Yogawan, but you can call me Tama, an early semester informatics student from Yogyakarta Technology University, i has studied the web since he was in high school.</p>
 
 <h3>My Skills</h3>
 
