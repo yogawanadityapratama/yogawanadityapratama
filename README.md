@@ -18,4 +18,6 @@
 
 <h3>my fighting ability_</h3>
 
+<hr>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,next,python,bootstrap,tailwind,netlify,vercel,replit)](https://skillicons.dev)
