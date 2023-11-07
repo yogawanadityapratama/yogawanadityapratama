@@ -13,9 +13,9 @@
   />
 </picture>
 
-<h1>Hello World_</h1>
+<h1>Yoga Adit Tama_</h1>
 <p>My name is Yogawan, but you can call me Tama, an early semester informatics student from Yogyakarta Technology University, i has studied the web since he was in high school.</p>
 
-<h3>My Skills</h3>
+<h3>My Special Ability</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,next,python,bootstrap,tailwind,netlify,vercel,replit)](https://skillicons.dev)
