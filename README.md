@@ -1,6 +1,4 @@
-<h3>python snake_</h3>
-
-<hr>
+<h1>python __snake__</h1>
 
 <picture>
   <source
@@ -20,8 +18,6 @@
 <h1>hello world_</h1>
 <p>My name is Yogawan, but you can call me Tama, an early semester informatics student from Yogyakarta Technology University, i has studied the web since he was in high school.</p>
 
-<h3>my fighting ability_</h3>
-
-<hr>
+<h1>my special ability_</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,next,python,bootstrap,tailwind,netlify,vercel,replit)](https://skillicons.dev)
