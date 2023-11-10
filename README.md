@@ -1,4 +1,4 @@
-<h1>python __snake__</h1>
+<h5>python __snake__</h5>
 
 <picture>
   <source
