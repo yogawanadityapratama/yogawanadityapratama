@@ -1,3 +1,7 @@
+<h3>python snake_</h3>
+
+<hr>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
