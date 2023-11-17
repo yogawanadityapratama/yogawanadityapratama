@@ -1,5 +1,3 @@
-<h5>python __snake__</h5>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -16,8 +14,8 @@
 </picture>
 
 <h1>hello world_</h1>
-<p>My name is Yogawan, but you can call me Tama, an early semester informatics student from Yogyakarta Technology University, i has studied the web since he was in high school.</p>
+<p>My name is Yogawan, but you can call me Tama, an early semester informatics student from Yogyakarta Technology University, i has studied the web since he was in middle school.</p>
 
-<h5>my __special_ability__</h5>
+<h5>my special ability</h5>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,next,python,bootstrap,tailwind,netlify,vercel,replit)](https://skillicons.dev)
