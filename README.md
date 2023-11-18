@@ -4,7 +4,7 @@
 
 <h5>my special ability</h5>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,angular,vue,bootstrap,tailwind,netlify,vercel,replit)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,angular,vue,php,laravel,bootstrap,tailwind,netlify,vercel,replit)](https://skillicons.dev)
 
 <picture>
   <source
