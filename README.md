@@ -14,7 +14,7 @@
 </picture>
 
 <h1>Hi, there 👋</h1>
-<p>Hi all, my name is Yogawan, but you can call me Tama. I am a Frontend web developer. Learned web programming since middle school. Favorite frameworks are ReactJS, Angular, and Vue.js, I'm also learning php and laravel recently, and I hate Python.</p>
+<p>My name is Yogawan, but you can call me Tama. I am a Frontend web developer. Learned web programming since middle school. Favorite frameworks are ReactJS, Angular, and Vue.js, I'm also learning php and laravel recently, and I hate Python.</p>
 
 <h5>my special ability</h5>
 
