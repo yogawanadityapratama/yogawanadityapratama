@@ -2,7 +2,7 @@
 
 <p>My name is Yogawan, but you can call me Tama. I don't have a talent, just 100% hard work.</p>
 
-<h1>My special ability 💪</h1>
+<h5>My special ability 💪</h5>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,angular,vue,php,laravel,bootstrap,tailwind,netlify,vercel,replit)](https://skillicons.dev)
 
