@@ -1,8 +1,8 @@
 <h1>Hi, there 👋</h1>
 
-<p>My name is Yogawan, but you can call me Tama. I am a Frontend web developer. Learned web programming since middle school. Favorite frameworks are ReactJS, Angular, and Vue.js, I'm also learning php and laravel recently, and I hate Python.</p>
+<p>My name is Yogawan, but you can call me Tama. I don't have a talent, just 100% hard work.</p>
 
-<h5>my special ability</h5>
+<h1>my special ability 💪</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,angular,vue,php,laravel,bootstrap,tailwind,netlify,vercel,replit)](https://skillicons.dev)
 
