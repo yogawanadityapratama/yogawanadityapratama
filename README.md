@@ -1,6 +1,6 @@
 <h1>Hi, there 👋</h1>
 
-<p>My name is Yogawan, but you can call me Tama. I don't have a talent, just 100% hard work.</p>
+<p>My name is Yogawan, but you can call me Tama.</p>
 
 <h5>My Skills 💪</h5>
 
