@@ -16,4 +16,4 @@
 </picture>
 <h5>My Skills 💪</h5>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,angular,vue,php,laravel,bootstrap,tailwind,netlify,vercel,replit,git,github&perline=7&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,angular,vue,php,laravel,bootstrap,tailwind,netlify,vercel,replit,git,github&perline=8&theme=light)](https://skillicons.dev)
