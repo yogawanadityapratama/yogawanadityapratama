@@ -1,9 +1,3 @@
-<h1>Hi, there 👋</h1>
-<p>My name is Yogawan, but you can call me Tama. I am a Frontend web developer. Learned web programming since middle school. Favorite frameworks are ReactJS, Angular, and VueJS, I'm also learning PHP and Laravel recently, and I hate Python.</p>
-
-## My Skills 💪
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,nodejs,react,angular,vue,php,laravel,python,bootstrap,tailwind,netlify,vercel,replit,git,github,vim,neovim&perline=10&theme=light)](https://skillicons.dev)
 
 <picture>
   <source
