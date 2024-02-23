@@ -1,4 +1,4 @@
-"Saya akan lebih baik jika terlihat bodoh, dari pada terlihat pintar."
+#"Saya akan lebih baik jika terlihat bodoh, dari pada terlihat pintar."
 
 <picture>
   <source
